@@ -1,17 +1,14 @@
 # Welcome to Mattia Coscia's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-I am a full-stack software developer. I love programming, reading, writing and speaking.
+- 👨‍🎓 I'm a **Software Developer**.
+
+-I love programming, reading, writing and speaking.
 
 That's why I like to make things that make a difference.
 
-
-### Talking about Personal Stuff:
-
-- 👨‍🎓 I'm a **Software Developer**
-- 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
+  - Data Structures and Algorithms on [LeetCode]
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [mattiacoscia33@gmail.com](mailto:mattiacoscia33@gmail.com)
 - 💪 This is where I write, code and solve problems:
